@@ -1,14 +1,14 @@
 # copartner_assignment_app
-*Completed assignment with intergration of api and filtered based on service type. 
-*And Also managed expert service type and their plans
-*Now here is showing only one expert because there is only one data after filtering in given api. 
-*If there are more data we can able to see list of experts and their respective plans.
+###### Completed assignment with intergration of api and filtered based on service type. 
+###### And Also managed expert service type and their plans
+###### Now here is showing only one expert because there is only one data after filtering in given api. 
+###### If there are more data we can able to see list of experts and their respective plans.
 
 ## Android App link
-[Link here:](https://i.diawi.com/ten8sE)
+[Click here to get link](https://i.diawi.com/ten8sE)
 
 ## IOS App link
-[link Here:](https://i.diawi.com/MeAtMb)
+[Click here to get link](https://i.diawi.com/MeAtMb)
 
 
 
