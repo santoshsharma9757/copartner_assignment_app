@@ -1,16 +1,12 @@
 # copartner_assignment_app
+*Completed assignment with intergration of api and filtered based on service type. 
+*And Also managed expert service type and their plans
+*Now here is showing only one expert because there is only one data after filtering in given api. 
+*If there are more data we can able to see list of experts and their respective plans.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Output
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![android-google pixel 4](https://github.com/user-attachments/assets/d995bd0a-37a7-40b5-a01b-ca0bb371670b)
+![ios-iphone 11](https://github.com/user-attachments/assets/b14dcfa3-6537-48c9-8fb8-3e6f6f99b176)
